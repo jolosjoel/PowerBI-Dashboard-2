@@ -29,7 +29,6 @@ En este proyecto, hemos explorado la base de datos de trámites y documentos mig
 
 En resumen, este análisis revela que la mayoría de las personas que migran a México son mujeres de entre 45 y 60 años, posiblemente jubiladas o próximas a la jubilación, buscando una mejor calidad de vida. La mayoría de las migraciones provienen de Norteamérica, como Estados Unidos, y Centroamérica, como Colombia, Venezuela, Honduras y Cuba, con un porcentaje significativo del 9.93% de migrantes provenientes de China.
 
-Recomendamos a las personas interesadas en migrar a México iniciar sus trámites al comienzo del año, enero y febrero, ya que son los meses más ocupados. El trámite más común es la residencia permanente, y suele expedirse en estados más desarrollados de México, como Ciudad de México, Guadalajara y Quintana Roo.
+Recomendamos a las personas interesadas en migrar a México iniciar sus trámites al comienzo del año, entre enero y febrero, ya que los meses más ocupados en las oficinas de migración son noviembre y diciembre. El trámite más común es la residencia permanente, y suele expedirse en los estados más desarrollados de México, como Ciudad de México, Guadalajara y Quintana Roo.
 
 Este análisis proporciona información valiosa para comprender mejor las tendencias de migración legal hacia México y tomar decisiones informadas.
-
